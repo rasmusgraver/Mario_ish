@@ -1,0 +1,28 @@
+/* minimal reset */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("bilder/bakgrunn.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.character {
+    width: 40px;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+
+#luigi {
+    top: 100px;
+    left: 40px;
+}
+#mario {
+    top: 300px;
+    left: 400px;
+}

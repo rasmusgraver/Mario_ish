@@ -14,8 +14,6 @@ body {
 .character {
     width: 40px;
     position: absolute;
-    top: 20px;
-    left: 30px;
 }
 
 #mario {
